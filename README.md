@@ -5,13 +5,15 @@ It utilizes the RSS which is pre-provided by most of the news websites ( the app
 
 The code is written in a clean and concise way and if you are a beginner level android developer, reasing and understanding this code will help you a lot in learning about how a native android app works. Primarily you'll get a knowledge about Constraint layout, Recycler View, Card view and principles of OOPs.
 
+This project is created by Shivansh Anand and it is free for both private and commercial uses. No Strings attached !
+
 The IDE used for this project was Android Studio and programming language used is Java
 
-##External libraries used
+#External libraries used
 
 Jsoup : Main use of this library is to get the RSS from the target website and then parse it. 
 
-##Images
+#Images
 
 ![First screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_0.png)
 ![Second screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_2.png)
