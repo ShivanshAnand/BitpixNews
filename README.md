@@ -15,10 +15,11 @@ Jsoup : Main use of this library is to get the RSS from the target website and t
 
 ## Images ##
 
-[First screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_0.png)
-[Second screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_2.png)
-[First screenshot of app in landscape mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_4.png)
-[Second screenshot of app in landscape mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_3.png)
+
+![First screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_0.png)
+![Second screenshot of app in portrait mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_2.png)
+![First screenshot of app in landscape mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_4.png)
+![Second screenshot of app in landscape mode](https://raw.githubusercontent.com/ShivanshAnand/BitpixNews/master/SCREENSHOT_3.png)
 
 
 
