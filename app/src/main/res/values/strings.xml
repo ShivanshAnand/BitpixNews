@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitpix News</string>
+
+    <string name="loading">Loading . . .</string>
+    <string name="headlines">Headlines goes here</string>
+    <string name="pubtime">Not yet published</string>
+    <string name="imgDescription">Related image</string>
+</resources>
